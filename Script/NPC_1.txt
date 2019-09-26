@@ -1,0 +1,9 @@
+Script:
+
+NPC 1:
+I see you've fallen down to the depths with the rest of us, cast out by those above. Are you too going to stagnate and rot away like the rest of us, or are you going to take the fight back to them?
+
+Ah, so you too.  Then take a spot, and sit for eternity.
+
+I thought that may be the case.  Take this flask, it has healing abilities and will help you on your journey. If you _____ you can bring it back to me and I will infuse it into the flask.
+

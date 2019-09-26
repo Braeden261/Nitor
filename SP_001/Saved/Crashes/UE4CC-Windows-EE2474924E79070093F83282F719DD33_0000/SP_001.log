@@ -1,0 +1,951 @@
+﻿Log file open, 08/26/19 18:11:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SP_001
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.521245
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/nvTextureTools/Win64/nvtt_64.dll' (GetLastError=126)
+LogWindows:   Missing import: MSVCR120.dll
+LogWindows:   Looked in: ../../../Engine/Binaries/Win64
+LogWindows:   Looked in: ../../../../../Senior Project/SP_001/Binaries/Win64
+LogWindows:   Looked in: J:\Senior Project\SP_001\Binaries\Win64
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.058s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: J:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.08.26-22.11.33:834][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.26-22.11.33:834][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.26-22.11.33:839][  0]LogHAL: Display: Platform has ~ 32 GB [34289106944 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.26-22.11.33:839][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.08.26-22.11.33:839][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.26-22.11.33:839][  0]LogInit: Computer: BRAEDEN-PC
+[2019.08.26-22.11.33:839][  0]LogInit: User: Braeden
+[2019.08.26-22.11.33:839][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.08.26-22.11.33:839][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.26-22.11.33:840][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.08.26-22.11.33:840][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.26-22.11.33:840][  0]LogMemory: Process Physical Memory: 100.82 MB used, 100.83 MB peak
+[2019.08.26-22.11.33:840][  0]LogMemory: Process Virtual Memory: 92.65 MB used, 92.65 MB peak
+[2019.08.26-22.11.33:840][  0]LogMemory: Physical Memory: 8171.02 MB used,  24529.62 MB free, 32700.64 MB total
+[2019.08.26-22.11.33:840][  0]LogMemory: Virtual Memory: 4661.95 MB used,  24529.62 MB free, 134217728.00 MB total
+[2019.08.26-22.11.33:853][  0]LogInit: Using OS detected language (en-US).
+[2019.08.26-22.11.33:854][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.26-22.11.33:855][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.26-22.11.34:098][  0]LogStreaming: Display: Took  0.244s to InitEngineTextLocalization.
+[2019.08.26-22.11.34:098][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.26-22.11.34:136][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.26-22.11.34:136][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.26-22.11.34:282][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.08.26-22.11.34:282][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.26-22.11.34:324][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.08.26-22.11.34:324][  0]LogD3D11RHI:       4053/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.08.26-22.11.34:326][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.26-22.11.34:326][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.26-22.11.34:326][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.26-22.11.34:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.26-22.11.34:332][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.26-22.11.34:333][  0]LogWindows: EnumDisplayDevices:
+[2019.08.26-22.11.34:333][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.08.26-22.11.34:333][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.08.26-22.11.34:333][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.08.26-22.11.34:333][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.08.26-22.11.34:333][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.26-22.11.34:333][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.08.26-22.11.34:333][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.08.26-22.11.34:334][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.08.26-22.11.34:334][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.08.26-22.11.34:362][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.26-22.11.34:380][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.26-22.11.34:480][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../Senior Project/SP_001/Intermediate/Shaders/WorkingDirectory/17792/).
+[2019.08.26-22.11.34:480][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Braeden/AppData/Local/Temp/UnrealShaderWorkingDir/48AFFF1F4CEC11CC5EE4C6A065A7AB84/'.
+[2019.08.26-22.11.34:679][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.26-22.11.34:688][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.26-22.11.34:696][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.26-22.11.34:705][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.26-22.11.34:714][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.26-22.11.34:722][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.26-22.11.34:731][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.26-22.11.34:740][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.26-22.11.34:744][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:795][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-22.11.34:796][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.26-22.11.34:848][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.26-22.11.34:848][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.26-22.11.34:863][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.26-22.11.34:863][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.26-22.11.34:872][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.26-22.11.34:880][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.26-22.11.34:888][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.26-22.11.34:896][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.26-22.11.34:902][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.26-22.11.34:902][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.26-22.11.34:938][  0]LogXGEController: Cleaning working directory: C:/Users/Braeden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.26-22.11.34:938][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.26-22.11.34:938][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.26-22.11.34:938][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.26-22.11.35:462][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.26-22.11.35:500][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Braeden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.08.26-22.11.35:500][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Braeden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.08.26-22.11.35:500][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Senior Project/SP_001/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.26-22.11.35:500][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.26-22.11.35:500][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Senior Project/SP_001/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.26-22.11.35:500][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.26-22.11.35:511][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.26-22.11.35:523][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Braeden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.26-22.11.35:523][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.26-22.11.35:523][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.26-22.11.35:535][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.26-22.11.35:536][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.26-22.11.35:537][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.26-22.11.35:598][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2019.08.26-22.11.35:815][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.26-22.11.35:903][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.26-22.11.35:906][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.26-22.11.35:906][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.26-22.11.35:906][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.26-22.11.35:906][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.26-22.11.35:926][  0]LogNetVersion: SP_001 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3648971250)
+[2019.08.26-22.11.36:281][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.073766 seconds
+[2019.08.26-22.11.36:285][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.08.26-22.11.36:285][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.08.26-22.11.36:285][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.26-22.11.36:907][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.26-22.11.36:919][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.26-22.11.37:031][  0]SourceControl: Source control is disabled
+[2019.08.26-22.11.37:031][  0]SourceControl: Source control is disabled
+[2019.08.26-22.11.37:031][  0]SourceControl: Source control is disabled
+[2019.08.26-22.11.37:032][  0]SourceControl: Source control is disabled
+[2019.08.26-22.11.37:171][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.26-22.11.37:306][  0]LogOcInput: OculusInput pre-init called
+[2019.08.26-22.11.37:354][  0]LogEngine: Initializing Engine...
+[2019.08.26-22.11.37:355][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.08.26-22.11.37:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.26-22.11.37:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.26-22.11.37:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.26-22.11.37:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.26-22.11.37:500][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.26-22.11.37:508][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.26-22.11.37:565][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-22.11.37:596][  0]LogInit: FAudioDevice initialized.
+[2019.08.26-22.11.37:596][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.26-22.11.37:656][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Braeden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.08.26-22.11.37:660][  0]LogInit: Texture streaming: Enabled
+[2019.08.26-22.11.37:673][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.26-22.11.37:681][  0]LogInit: Transaction tracking system initialized
+[2019.08.26-22.11.37:695][  0]BlueprintLog: New page: Editor Load
+[2019.08.26-22.11.37:738][  0]LocalizationService: Localization service is disabled
+[2019.08.26-22.11.37:918][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.26-22.11.37:918][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.26-22.11.37:918][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.26-22.11.37:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.26-22.11.37:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.26-22.11.37:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.26-22.11.37:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.26-22.11.38:002][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/SP_001/Content/' took 0.02s
+[2019.08.26-22.11.38:002][  0]SourceControl: Source control is disabled
+[2019.08.26-22.11.38:002][  0]Cmd: MAP LOAD FILE="../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.26-22.11.38:002][  0]LightingResults: New page: Lighting Build
+[2019.08.26-22.11.38:004][  0]MapCheck: New page: Map Check
+[2019.08.26-22.11.38:004][  0]LightingResults: New page: Lighting Build
+[2019.08.26-22.11.38:300][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.26-22.11.38:305][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.26-22.11.38:329][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.26-22.11.38:369][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.505ms to complete.
+[2019.08.26-22.11.38:369][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.367
+[2019.08.26-22.11.38:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-22.11.38:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-22.11.38:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-22.11.38:534][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-22.11.38:539][  0]LogCollectionManager: Loaded 0 collections in 0.001082 seconds
+[2019.08.26-22.11.38:585][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/SP_001/Saved/Collections/' took 0.01s
+[2019.08.26-22.11.38:585][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/SP_001/Content/Developers/Braeden/Collections/' took 0.01s
+[2019.08.26-22.11.38:585][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/SP_001/Content/Collections/' took 0.01s
+[2019.08.26-22.11.38:585][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.26-22.11.38:592][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2572 classes and 603 folders.
+[2019.08.26-22.11.38:597][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.08.26-22.11.38:641][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.08.26-22.11.38:645][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.08.26-22.11.38:692][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.26-22.11.38:693][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.26-22.11.38:697][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.26-22.11.38:751][  0]LogRenderer: Reallocating scene render targets to support 1616x576 Format 10 NumSamples 1 (Frame:1).
+[2019.08.26-22.11.38:840][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.08.26-22.11.38:840][  0]LogLoad: (Engine Initialization) Total time: 6.81 seconds
+[2019.08.26-22.11.38:840][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.26-22.11.38:868][  0]LogAssetRegistry: Asset discovery search completed in 3.2919 seconds
+[2019.08.26-22.11.38:869][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.26-22.11.38:869][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.08.26-22.11.38:870][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.26-22.11.38:885][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.26-22.11.44:071][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-22.13.08:383][867]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.26-22.13.19:056][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-22.13.47:872][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeRight_Root.SpinDodgeRight_Root
+[2019.08.26-22.13.47:873][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeRight_Root.SpinDodgeRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:877][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.26-22.13.47:877][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackward_Root.DodgeBackward_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:879][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackwardLeft_Root.DodgeBackwardLeft_Root
+[2019.08.26-22.13.47:879][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackwardLeft_Root.DodgeBackwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:881][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackwardRight_Root.DodgeBackwardRight_Root
+[2019.08.26-22.13.47:881][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeBackwardRight_Root.DodgeBackwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:883][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForward_Root.DodgeForward_Root
+[2019.08.26-22.13.47:884][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForward_Root.DodgeForward_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:886][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardLeft_Root.DodgeForwardLeft_Root
+[2019.08.26-22.13.47:886][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardLeft_Root.DodgeForwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:888][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardRight_Root.DodgeForwardRight_Root
+[2019.08.26-22.13.47:888][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeForwardRight_Root.DodgeForwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:890][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeLeft_Root.DodgeLeft_Root
+[2019.08.26-22.13.47:890][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeLeft_Root.DodgeLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:892][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeRight_Root.DodgeRight_Root
+[2019.08.26-22.13.47:892][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/DodgeRight_Root.DodgeRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:894][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackward_Root.RollBackward_Root
+[2019.08.26-22.13.47:894][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackward_Root.RollBackward_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:897][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardLeft_Root.RollBackwardLeft_Root
+[2019.08.26-22.13.47:897][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardLeft_Root.RollBackwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:899][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardRight_Root.RollBackwardRight_Root
+[2019.08.26-22.13.47:899][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollBackwardRight_Root.RollBackwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:901][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForward_Root.RollForward_Root
+[2019.08.26-22.13.47:901][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForward_Root.RollForward_Root) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:904][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardLeft_Root.RollForwardLeft_Root
+[2019.08.26-22.13.47:904][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardLeft_Root.RollForwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:906][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardRight_Root.RollForwardRight_Root
+[2019.08.26-22.13.47:906][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollForwardRight_Root.RollForwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:909][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollLeft_Root.RollLeft_Root
+[2019.08.26-22.13.47:909][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollLeft_Root.RollLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:912][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollRight_Root.RollRight_Root
+[2019.08.26-22.13.47:912][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/RollRight_Root.RollRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:914][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeLeft_Root.SpinDodgeLeft_Root
+[2019.08.26-22.13.47:914][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/RollsAndDodges/Animations/RootMotion/SpinDodgeLeft_Root.SpinDodgeLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.13.47:991][ 55]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.26-22.13.48:031][ 55]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/RollsAndDodges/Characters/Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.26-22.13.51:728][479]LogSlate: Took 0.000916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.26-22.14.04:980][722]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.26-22.14.28:768][944]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.26-22.14.28:774][944]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.26-22.14.28:793][944]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.08.26-22.14.28:976][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.14.28:979][944]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.08.26-22.14.29:031][944]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.14.29:268][944]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.08.26-22.14.29:275][944]LogRenderer: Reallocating scene render targets to support 1616x888 Format 10 NumSamples 1 (Frame:1).
+[2019.08.26-22.15.44:087][850]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.26-22.16.27:232][321]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Animation/Skeleton/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2019.08.26-22.16.56:883][536]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.26-22.18.14:179][181]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.26-22.18.31:256][789]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/RollsAndDodges/Characters/Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.26-22.18.31:261][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.18.31:277][789]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.19.40:684][650]LogSlate: Window 'Control Rig' being destroyed
+[2019.08.26-22.19.40:688][650]LogSlate: Window 'Control Rig' being destroyed
+[2019.08.26-22.19.51:383][802]Cmd: TRANSACTION UNDO
+[2019.08.26-22.19.51:383][802]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2019.08.26-22.19.51:454][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.21.12:147][ 88]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/RollsAndDodges/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.26-22.21.12:152][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.21.12:170][ 88]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.21.46:287][ 39]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/UE4_Mannequin_Skeleton32D135374114F03E3D2389A355C41B09.tmp' to '../../../../../Senior Project/SP_001/Content/RollsAndDodges/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.26-22.21.53:343][839]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.08.26-22.22.06:305][309]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.26-22.22.12:799][ 65]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.26-22.22.12:804][ 65]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.22.12:835][ 65]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.22.19:725][727]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.26-22.22.19:729][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.22.19:748][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.22.33:076][495]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.26-22.22.33:130][495]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/BoneMapping5BBAB6CC44C5CC652B994A8DA412F686.tmp' to '../../../../../Senior Project/SP_001/Content/Mannequin/Character/Mesh/BoneMapping.uasset'
+[2019.08.26-22.22.36:469][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="../../../../../Senior Project/SP_001/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.26-22.22.36:472][820]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/UE4_Mannequin_Skeleton13D328C04DE3C14E3059A184D6C6AE89.tmp' to '../../../../../Senior Project/SP_001/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.26-22.22.41:465][349]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.26-22.22.44:950][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.26-22.22.44:950][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeBackward_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:951][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.26-22.22.44:951][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:954][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.26-22.22.44:955][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:959][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackwardLeft_Root.DodgeBackwardLeft_Root
+[2019.08.26-22.22.44:959][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeBackwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:960][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackwardLeft_Root.DodgeBackwardLeft_Root
+[2019.08.26-22.22.44:960][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:964][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackwardLeft_Root.DodgeBackwardLeft_Root
+[2019.08.26-22.22.44:964][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:968][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackwardRight_Root.DodgeBackwardRight_Root
+[2019.08.26-22.22.44:968][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeBackwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:969][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackwardRight_Root.DodgeBackwardRight_Root
+[2019.08.26-22.22.44:969][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:973][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeBackwardRight_Root.DodgeBackwardRight_Root
+[2019.08.26-22.22.44:973][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_5) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:977][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForward_Root.DodgeForward_Root
+[2019.08.26-22.22.44:977][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeForward_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:978][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForward_Root.DodgeForward_Root
+[2019.08.26-22.22.44:978][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_6) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:982][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForward_Root.DodgeForward_Root
+[2019.08.26-22.22.44:982][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_7) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:986][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForwardLeft_Root.DodgeForwardLeft_Root
+[2019.08.26-22.22.44:987][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeForwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:987][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForwardLeft_Root.DodgeForwardLeft_Root
+[2019.08.26-22.22.44:987][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_8) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:991][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForwardLeft_Root.DodgeForwardLeft_Root
+[2019.08.26-22.22.44:991][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_9) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:996][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForwardRight_Root.DodgeForwardRight_Root
+[2019.08.26-22.22.44:996][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeForwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.44:996][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForwardRight_Root.DodgeForwardRight_Root
+[2019.08.26-22.22.44:997][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_10) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:001][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeForwardRight_Root.DodgeForwardRight_Root
+[2019.08.26-22.22.45:001][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_11) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:005][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeLeft_Root.DodgeLeft_Root
+[2019.08.26-22.22.45:005][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:005][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeLeft_Root.DodgeLeft_Root
+[2019.08.26-22.22.45:006][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_12) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:009][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeLeft_Root.DodgeLeft_Root
+[2019.08.26-22.22.45:009][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_13) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:013][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeRight_Root.DodgeRight_Root
+[2019.08.26-22.22.45:014][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.DodgeRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:014][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeRight_Root.DodgeRight_Root
+[2019.08.26-22.22.45:014][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_14) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:018][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DodgeRight_Root.DodgeRight_Root
+[2019.08.26-22.22.45:018][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_15) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:023][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackward_Root.RollBackward_Root
+[2019.08.26-22.22.45:023][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollBackward_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:024][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackward_Root.RollBackward_Root
+[2019.08.26-22.22.45:024][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_16) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:028][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackward_Root.RollBackward_Root
+[2019.08.26-22.22.45:028][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_17) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:033][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackwardLeft_Root.RollBackwardLeft_Root
+[2019.08.26-22.22.45:033][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollBackwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:034][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackwardLeft_Root.RollBackwardLeft_Root
+[2019.08.26-22.22.45:034][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:038][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackwardLeft_Root.RollBackwardLeft_Root
+[2019.08.26-22.22.45:038][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_19) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:043][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackwardRight_Root.RollBackwardRight_Root
+[2019.08.26-22.22.45:043][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollBackwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:044][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackwardRight_Root.RollBackwardRight_Root
+[2019.08.26-22.22.45:044][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_20) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:048][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollBackwardRight_Root.RollBackwardRight_Root
+[2019.08.26-22.22.45:048][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_21) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:053][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForward_Root.RollForward_Root
+[2019.08.26-22.22.45:053][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollForward_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:054][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForward_Root.RollForward_Root
+[2019.08.26-22.22.45:054][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_22) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:058][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForward_Root.RollForward_Root
+[2019.08.26-22.22.45:058][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_23) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:063][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForwardLeft_Root.RollForwardLeft_Root
+[2019.08.26-22.22.45:063][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollForwardLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:064][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForwardLeft_Root.RollForwardLeft_Root
+[2019.08.26-22.22.45:065][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_24) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:069][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForwardLeft_Root.RollForwardLeft_Root
+[2019.08.26-22.22.45:069][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_25) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:074][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForwardRight_Root.RollForwardRight_Root
+[2019.08.26-22.22.45:074][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollForwardRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:075][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForwardRight_Root.RollForwardRight_Root
+[2019.08.26-22.22.45:075][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_26) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:079][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollForwardRight_Root.RollForwardRight_Root
+[2019.08.26-22.22.45:079][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_27) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:084][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollLeft_Root.RollLeft_Root
+[2019.08.26-22.22.45:084][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:085][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollLeft_Root.RollLeft_Root
+[2019.08.26-22.22.45:085][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_28) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:090][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollLeft_Root.RollLeft_Root
+[2019.08.26-22.22.45:090][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_29) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:094][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollRight_Root.RollRight_Root
+[2019.08.26-22.22.45:095][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RollRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:095][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollRight_Root.RollRight_Root
+[2019.08.26-22.22.45:096][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_30) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:100][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RollRight_Root.RollRight_Root
+[2019.08.26-22.22.45:100][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_31) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:104][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SpinDodgeLeft_Root.SpinDodgeLeft_Root
+[2019.08.26-22.22.45:104][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.SpinDodgeLeft_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:105][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SpinDodgeLeft_Root.SpinDodgeLeft_Root
+[2019.08.26-22.22.45:105][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_32) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:109][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SpinDodgeLeft_Root.SpinDodgeLeft_Root
+[2019.08.26-22.22.45:109][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_33) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:113][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SpinDodgeRight_Root.SpinDodgeRight_Root
+[2019.08.26-22.22.45:114][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.SpinDodgeRight_Root) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:114][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SpinDodgeRight_Root.SpinDodgeRight_Root
+[2019.08.26-22.22.45:115][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_34) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:119][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SpinDodgeRight_Root.SpinDodgeRight_Root
+[2019.08.26-22.22.45:119][730]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_35) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.26-22.22.45:130][730]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.26-22.22.47:825][994]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.26-22.22.47:829][994]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.26-22.23.18:637][207]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.26-22.23.18:648][207]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.23.18:678][207]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.23.25:160][315]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.26-22.23.25:165][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.23.25:183][315]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.23.58:353][545]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.26-22.23.58:359][545]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.26-22.24.02:634][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2019.08.26-22.24.02:636][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.08.26-22.24.02:636][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.08.26-22.24.02:640][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/UE4_Mannequin_Skeleton_Auto13FDEFA7A4AFFDA017D391CBCBA29E93A.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2019.08.26-22.24.02:641][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RollsAndDodges/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.08.26-22.24.02:641][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollsAndDodges/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2019.08.26-22.24.02:644][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/UE4_Mannequin_Skeleton_Auto18E37CA8B44356EE28E89809479A8C758.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollsAndDodges/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2019.08.26-22.24.02:645][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeBackward_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:657][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeBackward_Root.DodgeBackward_Root]
+[2019.08.26-22.24.02:657][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeBackward_Root]
+[2019.08.26-22.24.02:657][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeBackward_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeBackward_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:665][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeBackward_Root_Auto1683A674F4F6DC4F5F6A4B5893C94B13C.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeBackward_Root_Auto1.uasset'
+[2019.08.26-22.24.02:666][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeBackwardLeft_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:675][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeBackwardLeft_Root.DodgeBackwardLeft_Root]
+[2019.08.26-22.24.02:675][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeBackwardLeft_Root]
+[2019.08.26-22.24.02:675][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeBackwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeBackwardLeft_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:683][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeBackwardLeft_Root_Auto1DD8693794F8D3372F5739C90BB8D4378.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeBackwardLeft_Root_Auto1.uasset'
+[2019.08.26-22.24.02:684][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeBackwardRight_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:693][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeBackwardRight_Root.DodgeBackwardRight_Root]
+[2019.08.26-22.24.02:693][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeBackwardRight_Root]
+[2019.08.26-22.24.02:693][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeBackwardRight_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeBackwardRight_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:701][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeBackwardRight_Root_Auto168A72C3C4CDC490C93C56BA94B33BE99.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeBackwardRight_Root_Auto1.uasset'
+[2019.08.26-22.24.02:702][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeForward_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:710][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeForward_Root.DodgeForward_Root]
+[2019.08.26-22.24.02:711][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeForward_Root]
+[2019.08.26-22.24.02:711][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeForward_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeForward_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:718][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeForward_Root_Auto1E4CF290F49D7116B516E53B63E1493A1.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeForward_Root_Auto1.uasset'
+[2019.08.26-22.24.02:719][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeForwardLeft_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:729][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeForwardLeft_Root.DodgeForwardLeft_Root]
+[2019.08.26-22.24.02:729][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeForwardLeft_Root]
+[2019.08.26-22.24.02:729][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeForwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeForwardLeft_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:736][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeForwardLeft_Root_Auto1B9AEA274462CDAD3D6BF3BAF9A68C6AA.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeForwardLeft_Root_Auto1.uasset'
+[2019.08.26-22.24.02:737][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeForwardRight_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:746][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeForwardRight_Root.DodgeForwardRight_Root]
+[2019.08.26-22.24.02:747][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeForwardRight_Root]
+[2019.08.26-22.24.02:747][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeForwardRight_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeForwardRight_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:754][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeForwardRight_Root_Auto1030FE784430D28F417CA3D9DA985B3FE.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeForwardRight_Root_Auto1.uasset'
+[2019.08.26-22.24.02:755][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeLeft_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:766][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeLeft_Root.DodgeLeft_Root]
+[2019.08.26-22.24.02:766][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeLeft_Root]
+[2019.08.26-22.24.02:766][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeLeft_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeLeft_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:774][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeLeft_Root_Auto1232B02C94931FF9D5D0BCC81BB96C122.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeLeft_Root_Auto1.uasset'
+[2019.08.26-22.24.02:775][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DodgeRight_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:784][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/DodgeRight_Root.DodgeRight_Root]
+[2019.08.26-22.24.02:784][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/DodgeRight_Root]
+[2019.08.26-22.24.02:784][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeRight_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeRight_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:792][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeRight_Root_Auto13FE81994457B80E543AE1CA80170E625.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/DodgeRight_Root_Auto1.uasset'
+[2019.08.26-22.24.02:793][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollBackward_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:802][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollBackward_Root.RollBackward_Root]
+[2019.08.26-22.24.02:802][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollBackward_Root]
+[2019.08.26-22.24.02:802][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollBackward_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollBackward_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:810][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollBackward_Root_Auto1880749F94DA9C4D8E68D7695170BE4D1.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollBackward_Root_Auto1.uasset'
+[2019.08.26-22.24.02:810][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollBackwardLeft_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:819][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollBackwardLeft_Root.RollBackwardLeft_Root]
+[2019.08.26-22.24.02:819][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollBackwardLeft_Root]
+[2019.08.26-22.24.02:819][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollBackwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollBackwardLeft_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:827][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollBackwardLeft_Root_Auto14237252B4F9BFAD82B3BB0B42D279807.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollBackwardLeft_Root_Auto1.uasset'
+[2019.08.26-22.24.02:828][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollBackwardRight_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:836][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollBackwardRight_Root.RollBackwardRight_Root]
+[2019.08.26-22.24.02:836][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollBackwardRight_Root]
+[2019.08.26-22.24.02:837][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollBackwardRight_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollBackwardRight_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:845][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollBackwardRight_Root_Auto1B22BA71040F02C73999FF8B5C936854C.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollBackwardRight_Root_Auto1.uasset'
+[2019.08.26-22.24.02:846][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollForward_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:855][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollForward_Root.RollForward_Root]
+[2019.08.26-22.24.02:855][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollForward_Root]
+[2019.08.26-22.24.02:855][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollForward_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollForward_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:863][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollForward_Root_Auto1E0335DB3492DDF5285E88BB612653B57.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollForward_Root_Auto1.uasset'
+[2019.08.26-22.24.02:863][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollForwardLeft_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:872][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollForwardLeft_Root.RollForwardLeft_Root]
+[2019.08.26-22.24.02:873][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollForwardLeft_Root]
+[2019.08.26-22.24.02:873][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollForwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollForwardLeft_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:880][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollForwardLeft_Root_Auto14A7B62BD4071E73E6C1E6CA6D54D8CA2.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollForwardLeft_Root_Auto1.uasset'
+[2019.08.26-22.24.02:881][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollForwardRight_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:890][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollForwardRight_Root.RollForwardRight_Root]
+[2019.08.26-22.24.02:890][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollForwardRight_Root]
+[2019.08.26-22.24.02:890][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollForwardRight_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollForwardRight_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:898][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollForwardRight_Root_Auto1F773A2B94C18693F9F3C689C4ACC94E6.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollForwardRight_Root_Auto1.uasset'
+[2019.08.26-22.24.02:899][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollLeft_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:908][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollLeft_Root.RollLeft_Root]
+[2019.08.26-22.24.02:908][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollLeft_Root]
+[2019.08.26-22.24.02:908][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollLeft_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollLeft_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:916][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollLeft_Root_Auto1FF4966BF4CF4C2845315F095BD1FB8DE.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollLeft_Root_Auto1.uasset'
+[2019.08.26-22.24.02:916][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollRight_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:925][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RollRight_Root.RollRight_Root]
+[2019.08.26-22.24.02:925][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollRight_Root]
+[2019.08.26-22.24.02:925][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollRight_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollRight_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:933][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollRight_Root_Auto1973C4FF4426B3C9CD127BDB288679910.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/RollRight_Root_Auto1.uasset'
+[2019.08.26-22.24.02:933][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpinDodgeLeft_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:942][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/SpinDodgeLeft_Root.SpinDodgeLeft_Root]
+[2019.08.26-22.24.02:942][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpinDodgeLeft_Root]
+[2019.08.26-22.24.02:942][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpinDodgeLeft_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/SpinDodgeLeft_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:950][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/SpinDodgeLeft_Root_Auto1974771DA4DC036582E4653ABDCB10326.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/SpinDodgeLeft_Root_Auto1.uasset'
+[2019.08.26-22.24.02:951][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpinDodgeRight_Root] ([1] browsable assets)...
+[2019.08.26-22.24.02:959][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/SpinDodgeRight_Root.SpinDodgeRight_Root]
+[2019.08.26-22.24.02:959][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpinDodgeRight_Root]
+[2019.08.26-22.24.02:959][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpinDodgeRight_Root" FILE="../../../../../Senior Project/SP_001/Saved/Autosaves/Game/SpinDodgeRight_Root_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.26-22.24.02:967][ 36]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/SpinDodgeRight_Root_Auto1552A47034EB84904CA073FA2BA1E247E.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/SpinDodgeRight_Root_Auto1.uasset'
+[2019.08.26-22.24.02:968][ 36]LogFileHelpers: Auto-saving content packages took 0.333
+[2019.08.26-22.24.42:711][551]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.26-22.24.42:728][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.24.42:759][551]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.24.42:995][551]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.26-22.25.23:876][427]LogSlate: Window 'DodgeBackward_Root*' being destroyed
+[2019.08.26-22.25.23:879][427]LogSlate: Window 'DodgeBackward_Root*' being destroyed
+[2019.08.26-22.25.56:504][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeBackward_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeBackward_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:512][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeBackward_RootB70F456743ED0839E95482BA8C49F15C.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeBackward_Root.uasset'
+[2019.08.26-22.25.56:523][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeBackwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeBackwardLeft_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:531][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeBackwardLeft_RootA8C5189944E60756EFEB6DA8B1901652.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeBackwardLeft_Root.uasset'
+[2019.08.26-22.25.56:543][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeBackwardRight_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeBackwardRight_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:551][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeBackwardRight_RootE72337F44861CDA47FAA07A63C4C96DC.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeBackwardRight_Root.uasset'
+[2019.08.26-22.25.56:562][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeForward_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeForward_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:569][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeForward_RootF176B35E4C764231D44F8AAEF3E23F36.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeForward_Root.uasset'
+[2019.08.26-22.25.56:580][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeForwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeForwardLeft_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:588][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeForwardLeft_Root162328604583DFB43E3964A8679147EC.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeForwardLeft_Root.uasset'
+[2019.08.26-22.25.56:600][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeForwardRight_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeForwardRight_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:607][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeForwardRight_Root7C397FB24A2335968DA66AB04DAC8463.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeForwardRight_Root.uasset'
+[2019.08.26-22.25.56:619][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeLeft_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeLeft_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:627][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeLeft_Root8E801558443E16C98CEB998D4778EAA1.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeLeft_Root.uasset'
+[2019.08.26-22.25.56:639][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DodgeRight_Root" FILE="../../../../../Senior Project/SP_001/Content/DodgeRight_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:647][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/DodgeRight_RootBDB22F97458D6906DA460989222E4F62.tmp' to '../../../../../Senior Project/SP_001/Content/DodgeRight_Root.uasset'
+[2019.08.26-22.25.56:658][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollBackward_Root" FILE="../../../../../Senior Project/SP_001/Content/RollBackward_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:666][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollBackward_RootD2F9B4AC44D8301E680B3CB885A87CD1.tmp' to '../../../../../Senior Project/SP_001/Content/RollBackward_Root.uasset'
+[2019.08.26-22.25.56:677][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollBackwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Content/RollBackwardLeft_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:685][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollBackwardLeft_RootED6BE4314FD26F71D51810BC7020D249.tmp' to '../../../../../Senior Project/SP_001/Content/RollBackwardLeft_Root.uasset'
+[2019.08.26-22.25.56:696][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollBackwardRight_Root" FILE="../../../../../Senior Project/SP_001/Content/RollBackwardRight_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:704][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollBackwardRight_RootF66095BF4CB4426FF6751D974AFFFD06.tmp' to '../../../../../Senior Project/SP_001/Content/RollBackwardRight_Root.uasset'
+[2019.08.26-22.25.56:716][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollForward_Root" FILE="../../../../../Senior Project/SP_001/Content/RollForward_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:724][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollForward_RootF49086C24E94F54CB551B7A674872903.tmp' to '../../../../../Senior Project/SP_001/Content/RollForward_Root.uasset'
+[2019.08.26-22.25.56:735][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollForwardLeft_Root" FILE="../../../../../Senior Project/SP_001/Content/RollForwardLeft_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:743][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollForwardLeft_Root794AC7EF4E054399B99690A5C04D3DFE.tmp' to '../../../../../Senior Project/SP_001/Content/RollForwardLeft_Root.uasset'
+[2019.08.26-22.25.56:754][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollForwardRight_Root" FILE="../../../../../Senior Project/SP_001/Content/RollForwardRight_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:762][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollForwardRight_RootFD7E18C844C42162DC375681BED72518.tmp' to '../../../../../Senior Project/SP_001/Content/RollForwardRight_Root.uasset'
+[2019.08.26-22.25.56:773][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollLeft_Root" FILE="../../../../../Senior Project/SP_001/Content/RollLeft_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:781][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollLeft_Root57C755024656FAB959A8098FC74643BB.tmp' to '../../../../../Senior Project/SP_001/Content/RollLeft_Root.uasset'
+[2019.08.26-22.25.56:793][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollRight_Root" FILE="../../../../../Senior Project/SP_001/Content/RollRight_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:801][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/RollRight_RootA2F441574C2B42996FA895A23C419C8F.tmp' to '../../../../../Senior Project/SP_001/Content/RollRight_Root.uasset'
+[2019.08.26-22.25.56:813][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpinDodgeLeft_Root" FILE="../../../../../Senior Project/SP_001/Content/SpinDodgeLeft_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:820][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/SpinDodgeLeft_RootBAA3377D4BE39FAE85E093B1B66ECF48.tmp' to '../../../../../Senior Project/SP_001/Content/SpinDodgeLeft_Root.uasset'
+[2019.08.26-22.25.56:832][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpinDodgeRight_Root" FILE="../../../../../Senior Project/SP_001/Content/SpinDodgeRight_Root.uasset" SILENT=true
+[2019.08.26-22.25.56:840][983]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/SpinDodgeRight_RootE22093FD4A042E03DC737480CE1CA925.tmp' to '../../../../../Senior Project/SP_001/Content/SpinDodgeRight_Root.uasset'
+[2019.08.26-22.26.00:936][119]LogSlate: Window '18 AnimSequence Objects - Property Matrix Editor' being destroyed
+[2019.08.26-22.26.00:942][119]LogSlate: Window '18 AnimSequence Objects - Property Matrix Editor' being destroyed
+[2019.08.26-22.26.25:062][698]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/DodgeBackward_Root.DodgeBackward_Root
+[2019.08.26-22.26.25:071][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.26.25:103][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.26.25:346][698]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.26-22.26.38:715][635]LogSlate: Window 'DodgeBackward_Root' being destroyed
+[2019.08.26-22.26.38:719][635]LogSlate: Window 'DodgeBackward_Root' being destroyed
+[2019.08.26-22.27.03:212][311]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.08.26-22.27.03:236][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.27.03:573][311]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.08.26-22.27.04:069][311]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-22.27.04:246][311]LogSlate: Took 0.000887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.26-22.27.43:374][335]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2019.08.26-22.27.43:379][335]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2019.08.26-22.27.56:301][713]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.26-22.27.56:717][716]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SP001
+[2019.08.26-22.27.56:717][716]LogTemp: CWD: J:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.08.26-22.27.56:717][716]LogTemp: Initial Dir: J:\Unreal Engine\UE_4.20
+[2019.08.26-22.27.56:717][716]LogTemp: Env CWD: J:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.08.26-22.27.56:717][716]LogTemp: BranchPath = BRAEDEN-PC/J/Unreal Engine/UE_4.20/Engine/Binaries --- GameBranchPath = BRAEDEN-PC/J/Unreal Engine/UE_4.20/Engine/Binaries
+[2019.08.26-22.27.56:717][716]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Braeden\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.08.26-22.30.16:283][976]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.26-22.30.16:289][976]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.26-22.30.44:750][701]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.26-22.34.51:087][237]LogEditorTransaction: Undo Break Pin Links
+[2019.08.26-22.36.10:019][418]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonExampleMap_Auto2FA1FB2A04FD628609BAD0AA38117D637.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.08.26-22.36.10:021][418]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.149
+[2019.08.26-22.36.10:021][418]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2019.08.26-22.36.10:022][418]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.26-22.36.10:032][418]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.26-22.36.10:032][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.26-22.36.10:063][418]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonCharacter_Auto2B79150DE48F380F63AEBB2B8F7B8684D.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.08.26-22.36.10:064][418]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2019.08.26-22.36.10:073][418]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2019.08.26-22.36.10:073][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2019.08.26-22.36.10:106][418]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPerson_AnimBP_Auto28DCD3AF4448D58AB6447CA9C37589995.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset'
+[2019.08.26-22.36.10:107][418]LogFileHelpers: Auto-saving content packages took 0.086
+[2019.08.26-22.36.49:230][776]LogSlate: Took 0.002361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.26-22.36.54:498][123]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-22.36.54:517][123]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-22.36.54:680][123]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [1522.65] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 180 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-22.38.13:711][233]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2019.08.26-22.40.18:613][188]Cmd: TRANSACTION UNDO
+[2019.08.26-22.40.18:613][188]LogEditorTransaction: Undo Move Node
+[2019.08.26-22.40.20:505][401]LogEditorTransaction: Redo Move Node
+[2019.08.26-22.41.27:079][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.08.26-22.41.28:230][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.08.26-22.41.39:193][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-22.44.41:197][366]Cmd: TRANSACTION UNDO
+[2019.08.26-22.44.41:197][366]LogEditorTransaction: Undo Create Pin Link
+[2019.08.26-22.45.08:163][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.08.26-22.45.08:200][362]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonCharacter99D569AA4264ABB1C23A57820920E321.tmp' to '../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.08.26-22.45.09:982][569]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-22.45.10:002][569]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-22.45.10:004][569]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-22.45.10:126][569]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2018.10] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 143 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-22.47.26:653][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.08.26-22.47.29:906][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-22.48.15:559][738]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonExampleMap_Auto36D7FDDD14B76703E80EA749481789FAF.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.08.26-22.48.15:561][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.136
+[2019.08.26-22.48.15:561][738]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.136
+[2019.08.26-22.48.15:562][738]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.26-22.48.15:571][738]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.26-22.48.15:571][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.26-22.48.15:607][738]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonCharacter_Auto31BBB54FD4CAA88844113A0A470DB637A.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2019.08.26-22.48.15:608][738]LogFileHelpers: Auto-saving content packages took 0.046
+[2019.08.26-22.49.17:540][505]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-22.49.17:566][505]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-22.49.17:567][505]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-22.49.17:688][505]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2265.66] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 147 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-22.50.49:264][106]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-22.50.49:287][106]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-22.50.49:289][106]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-22.50.49:408][106]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2357.38] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 143 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-22.55.13:621][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.08.26-22.55.13:663][859]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonCharacter93CD3F854AEFE39E9F605BB36141BBAB.tmp' to '../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.08.26-22.55.14:115][909]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-22.55.14:140][909]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-22.55.14:142][909]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-22.55.14:264][909]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2622.24] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 148 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-22.55.55:721][831]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-22.55.55:745][831]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-22.55.55:747][831]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-22.55.55:865][831]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2663.84] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 144 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-22.56.21:271][814]LogEditorTransaction: Undo Delete current selection
+[2019.08.26-22.56.30:630][897]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-22.56.30:654][897]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-22.56.30:656][897]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-22.56.30:774][897]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2698.75] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 143 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-22.57.07:160][151]LogEditorTransaction: Undo Break Pin Links
+[2019.08.26-22.57.39:536][425]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.26-22.57.49:628][611]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.26-22.57.52:264][848]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.26-22.57.52:269][848]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.26-22.57.58:027][508]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.08.26-22.57.58:036][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-22.57.58:218][508]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-23.00.08:940][561]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2019.08.26-23.00.09:497][607]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2019.08.26-23.01.41:003][151]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.26-23.01.41:078][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-23.02.31:695][ 59]LogUObjectHash: Warning: Ambiguous search, could be AnimStateNode /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_0 or AnimStateNode /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_0
+[2019.08.26-23.04.26:256][881]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.26-23.07.52:947][347]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonExampleMap_Auto4A3A071CE458B76E297B77CA4E3ACFED8.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2019.08.26-23.07.52:949][347]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.186
+[2019.08.26-23.07.52:949][347]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2019.08.26-23.07.52:951][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.26-23.07.52:960][347]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.26-23.07.52:960][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.26-23.07.53:001][347]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonCharacter_Auto403E0F3314E914D260D43C4A8E04F980D.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2019.08.26-23.07.53:002][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2019.08.26-23.07.53:011][347]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2019.08.26-23.07.53:011][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2019.08.26-23.07.53:069][347]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPerson_AnimBP_Auto412E3E269418A794B128289BCDB2B9E90.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto4.uasset'
+[2019.08.26-23.07.53:070][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorBlueprintResources/StandardMacros] ([1] browsable assets)...
+[2019.08.26-23.07.53:070][347]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorBlueprintResources/StandardMacros]
+[2019.08.26-23.07.53:130][347]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/StandardMacros_Auto4081329D849C0C27EFEC7E0BD893EEBC7.tmp' to '../../../../../Senior Project/SP_001/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto4.uasset'
+[2019.08.26-23.07.53:130][347]LogFileHelpers: Auto-saving content packages took 0.180
+[2019.08.26-23.09.36:264][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="../../../../../Senior Project/SP_001/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2019.08.26-23.09.36:323][409]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPerson_AnimBP774C269E4F989EA9BD88C0AD2A353074.tmp' to '../../../../../Senior Project/SP_001/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2019.08.26-23.09.37:027][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="../../../../../Senior Project/SP_001/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2019.08.26-23.09.37:083][488]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPerson_AnimBP56F04DD342B793B0C6C05D8209C0C6A2.tmp' to '../../../../../Senior Project/SP_001/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2019.08.26-23.09.37:755][564]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2019.08.26-23.09.37:781][564]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] Idle/Run to Roll_F  will never be taken, please connect something to  Can Enter Transition
+[2019.08.26-23.09.37:904][564]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [3485.88] Compile of ThirdPerson_AnimBP successful, but with 1 Warning(s) [in 148 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2019.08.26-23.09.56:560][159]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2019.08.26-23.10.22:443][380]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-23.10.22:451][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.22:451][380]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.26-23.10.22:486][380]LogPlayLevel: [PlayLevel] Compiling StandardMacros before play...
+[2019.08.26-23.10.22:535][380]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.08.26-23.10.22:549][380]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-23.10.22:551][380]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-23.10.22:553][380]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3530.52] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 18 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-23.10.22:675][380]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (2 blueprints)
+[2019.08.26-23.10.22:675][380]BlueprintLog: Blueprint ThirdPersonCharacter failed to compile
+[2019.08.26-23.10.27:592][380]LogSlate: Window 'Message' being destroyed
+[2019.08.26-23.10.27:609][380]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 26, 2019, 3:10:27 PM)
+[2019.08.26-23.10.27:609][380]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.26-23.10.27:616][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006990s)
+[2019.08.26-23.10.27:617][380]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.26-23.10.27:617][380]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2019.08.26-23.10.27:617][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007818s)
+[2019.08.26-23.10.27:699][380]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-23.10.27:717][380]LogInit: FAudioDevice initialized.
+[2019.08.26-23.10.27:777][380]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-23.10.27:779][380]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.26-19.10.27
+[2019.08.26-23.10.27:779][380]LogWorld: Bringing up level for play took: 0.001174
+[2019.08.26-23.10.27:796][380]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2019.08.26-23.10.27:797][380]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 5.835
+[2019.08.26-23.10.27:797][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.32:818][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.32:818][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-23.10.32:851][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-23.10.32:851][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.32:875][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-23.10.32:923][970]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.08.26-23.10.35:242][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-23.10.35:317][252]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-23.10.35:324][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.35:325][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-23.10.35:325][252]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 26, 2019, 3:10:35 PM)
+[2019.08.26-23.10.35:325][252]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.26-23.10.35:332][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006937s)
+[2019.08.26-23.10.35:332][252]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.26-23.10.35:332][252]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.08.26-23.10.35:332][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007725s)
+[2019.08.26-23.10.35:407][252]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-23.10.35:423][252]LogInit: FAudioDevice initialized.
+[2019.08.26-23.10.35:453][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-23.10.35:454][252]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.26-19.10.35
+[2019.08.26-23.10.35:454][252]LogWorld: Bringing up level for play took: 0.001125
+[2019.08.26-23.10.35:466][252]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.495
+[2019.08.26-23.10.35:467][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.36:892][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.36:892][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-23.10.36:923][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-23.10.36:923][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.10.36:947][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-23.10.36:994][422]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.08.26-23.10.41:945][  6]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2019.08.26-23.10.41:950][  6]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2019.08.26-23.11.00:243][483]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.26-23.11.01:621][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-23.11.08:068][396]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.26-23.11.08:074][396]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-23.11.08:105][396]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-23.11.09:668][530]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.26-23.11.09:673][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.26-23.11.09:693][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.26-23.11.57:838][ 62]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.26-23.11.57:842][ 62]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.26-23.12.03:836][727]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.26-23.12.06:345][925]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-23.12.06:370][925]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-23.12.06:372][925]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-23.12.06:571][925]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3634.54] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 225 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-23.13.48:935][357]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.26-23.13.49:004][358]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SP001
+[2019.08.26-23.13.49:005][358]LogTemp: CWD: J:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.08.26-23.13.49:005][358]LogTemp: Initial Dir: J:\Unreal Engine\UE_4.20
+[2019.08.26-23.13.49:005][358]LogTemp: Env CWD: J:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.08.26-23.13.49:005][358]LogTemp: BranchPath = BRAEDEN-PC/J/Unreal Engine/UE_4.20/Engine/Binaries --- GameBranchPath = BRAEDEN-PC/J/Unreal Engine/UE_4.20/Engine/Binaries
+[2019.08.26-23.13.49:005][358]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Braeden\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.08.26-23.14.42:893][474]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-23.14.42:918][474]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-23.14.42:920][474]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-23.14.43:110][474]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3791.08] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 216 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-23.14.57:296][922]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-23.14.57:313][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.14.57:313][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-23.15.01:598][922]LogSlate: Window 'Message' being destroyed
+[2019.08.26-23.15.24:269][175]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.26-23.15.24:274][175]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.26-23.15.25:377][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.08.26-23.15.25:418][285]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonCharacter1B6ECD57488DC0B06AABB78D1F6E6A49.tmp' to '../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.08.26-23.15.39:007][879]LogEditorTransaction: Undo Create Reroute Node
+[2019.08.26-23.16.05:574][526]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonExampleMap56BB9EBE4CF476A582719693264781F7.tmp' to '../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.26-23.16.05:673][526]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonExampleMap_BuiltData3A28294743CA9C3C21DE3D9CBA9385BD.tmp' to '../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.08.26-23.16.10:732][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-23.16.10:739][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.16.10:739][ 93]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.26-23.16.10:750][ 93]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.08.26-23.16.10:763][ 93]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-23.16.10:766][ 93]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-23.16.10:767][ 93]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3878.74] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 18 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-23.16.10:954][ 93]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2019.08.26-23.16.10:954][ 93]BlueprintLog: Blueprint ThirdPersonCharacter failed to compile
+[2019.08.26-23.16.12:257][ 93]LogSlate: Window 'Message' being destroyed
+[2019.08.26-23.16.24:614][511]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-23.16.24:639][511]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-23.16.24:813][511]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3892.79] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 198 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-23.16.29:738][ 84]LogEditorTransaction: Undo Delete current selection
+[2019.08.26-23.16.31:681][286]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-23.16.31:706][286]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-23.16.31:707][286]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-23.16.31:884][286]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3899.86] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 203 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-23.18.12:001][404]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.26-23.18.12:026][404]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.08.26-23.18.12:027][404]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to resolve term  Value  passed into  Target
+[2019.08.26-23.18.12:204][404]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [4000.18] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 202 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.08.26-23.18.22:904][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.08.26-23.18.22:944][625]LogSavePackage: Moving '../../../../../Senior Project/SP_001/Saved/ThirdPersonCharacter12766849418ED3C93EB5B781F84F230F.tmp' to '../../../../../Senior Project/SP_001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.08.26-23.18.25:410][905]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-23.18.25:428][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.18.25:428][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-23.18.26:916][905]LogSlate: Window 'Message' being destroyed
+[2019.08.26-23.18.26:920][905]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 26, 2019, 3:18:26 PM)
+[2019.08.26-23.18.26:920][905]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.26-23.18.26:928][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007990s)
+[2019.08.26-23.18.26:929][905]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.26-23.18.26:929][905]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.08.26-23.18.26:929][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008747s)
+[2019.08.26-23.18.27:003][905]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-23.18.27:021][905]LogInit: FAudioDevice initialized.
+[2019.08.26-23.18.27:053][905]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-23.18.27:055][905]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.26-19.18.27
+[2019.08.26-23.18.27:055][905]LogWorld: Bringing up level for play took: 0.001075
+[2019.08.26-23.18.27:066][905]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.105
+[2019.08.26-23.18.27:067][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.18.32:475][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.18.32:475][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-23.18.32:517][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-23.18.32:518][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.26-23.18.32:542][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-23.18.32:609][549]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.08.26-23.18.36:843][ 33]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.26-23.18.37:207][ 67]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-23.18.58:668][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-23.19.00:800][770]LogSlate: Window 'Tutorials' being destroyed
+[2019.08.26-23.19.03:920][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-23.21.08:275][663]LogEditorTransaction: Undo Delete current selection
+[2019.08.26-23.21.08:971][728]LogEditorTransaction: Undo Add In Parameter
