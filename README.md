@@ -26,14 +26,19 @@ Sprint
 
 Attack 
 ```
-- Right Trigger for light attack (*not complete*)
-- Right Bumper for heavy attack (*not complete*)
+- Right Bumper for light attack
+- Right Trigger for heavy attack
 ```
 
 Throwing Knife
 ```
-- Left Trigger to throw knife (*not complete*)
+- Left Trigger to throw knife
 This action will stun enemies for a moment, allowing the player to attack.
+```
+
+Healing
+```
+- Y to heal
 ```
 
 Enemy Lock On
@@ -64,14 +69,19 @@ Sprint
 
 Attack 
 ```
-- Left Click for light attack (*not complete*)
-- Right Click for heavy attack (*not complete*)
+- Left Click for light attack
+- Right Click for heavy attack
 ```
 
 Throwing Knife
 ```
 - Q to throw knife (*not complete*)
 This action will stun enemies for a moment, allowing the player to attack.
+```
+
+Healing
+```
+- F to heal
 ```
 
 Enemy Lock On
