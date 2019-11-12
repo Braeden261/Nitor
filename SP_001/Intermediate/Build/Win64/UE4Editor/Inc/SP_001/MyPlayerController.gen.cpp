@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeMyPlayerController() {}
 	SP_001_API UClass* Z_Construct_UClass_AMyPlayerController();
 	ENGINE_API UClass* Z_Construct_UClass_APlayerController();
 	UPackage* Z_Construct_UPackage__Script_SP_001();
+	AIMODULE_API UClass* Z_Construct_UClass_UGenericTeamAgentInterface_NoRegister();
 // End Cross Module References
 	void AMyPlayerController::StaticRegisterNativesAMyPlayerController()
 	{
@@ -31,6 +32,7 @@ void EmptyLinkFunctionForGeneratedCodeMyPlayerController() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+		static const UE4CodeGen_Private::FImplementedInterfaceParams InterfaceParams[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -46,6 +48,9 @@ void EmptyLinkFunctionForGeneratedCodeMyPlayerController() {}
 		{ "ModuleRelativePath", "MyPlayerController.h" },
 	};
 #endif
+		const UE4CodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_AMyPlayerController_Statics::InterfaceParams[] = {
+			{ Z_Construct_UClass_UGenericTeamAgentInterface_NoRegister, (int32)VTABLE_OFFSET(AMyPlayerController, IGenericTeamAgentInterface), false },
+		};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMyPlayerController_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMyPlayerController>::IsAbstract,
 	};
@@ -56,11 +61,11 @@ void EmptyLinkFunctionForGeneratedCodeMyPlayerController() {}
 		DependentSingletons,
 		nullptr,
 		nullptr,
-		nullptr,
+		InterfaceParams,
 		ARRAY_COUNT(DependentSingletons),
 		0,
 		0,
-		0,
+		ARRAY_COUNT(InterfaceParams),
 		0x009002A4u,
 		METADATA_PARAMS(Z_Construct_UClass_AMyPlayerController_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_AMyPlayerController_Statics::Class_MetaDataParams))
 	};
@@ -73,7 +78,7 @@ void EmptyLinkFunctionForGeneratedCodeMyPlayerController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyPlayerController, 635630061);
+	IMPLEMENT_CLASS(AMyPlayerController, 1860440180);
 	template<> SP_001_API UClass* StaticClass<AMyPlayerController>()
 	{
 		return AMyPlayerController::StaticClass();

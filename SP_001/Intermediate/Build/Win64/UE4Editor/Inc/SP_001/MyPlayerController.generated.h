@@ -21,7 +21,8 @@ private: \
 	friend struct Z_Construct_UClass_AMyPlayerController_Statics; \
 public: \
 	DECLARE_CLASS(AMyPlayerController, APlayerController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SP_001"), NO_API) \
-	DECLARE_SERIALIZER(AMyPlayerController)
+	DECLARE_SERIALIZER(AMyPlayerController) \
+	virtual UObject* _getUObject() const override { return const_cast<AMyPlayerController*>(this); }
 
 
 #define SP_001_Source_SP_001_MyPlayerController_h_16_INCLASS \
@@ -30,7 +31,8 @@ private: \
 	friend struct Z_Construct_UClass_AMyPlayerController_Statics; \
 public: \
 	DECLARE_CLASS(AMyPlayerController, APlayerController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SP_001"), NO_API) \
-	DECLARE_SERIALIZER(AMyPlayerController)
+	DECLARE_SERIALIZER(AMyPlayerController) \
+	virtual UObject* _getUObject() const override { return const_cast<AMyPlayerController*>(this); }
 
 
 #define SP_001_Source_SP_001_MyPlayerController_h_16_STANDARD_CONSTRUCTORS \

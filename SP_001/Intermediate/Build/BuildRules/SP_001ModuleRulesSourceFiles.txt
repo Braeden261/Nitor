@@ -1,3 +1,3 @@
-C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Source\SP_001\SP_001.Build.cs
-C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Source\SP_001.Target.cs
-C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Source\SP_001Editor.Target.cs
+C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Source\SP_001\SP_001.Build.cs
+C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Source\SP_001.Target.cs
+C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Source\SP_001Editor.Target.cs

@@ -498,9 +498,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Inc\SP_001
-/I C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Source
-/I C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Source\SP_001
+/I C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Inc\SP_001
+/I C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Source
+/I C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Source\SP_001
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -530,12 +530,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\SP_001Editor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\SP_001Editor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\SP_001Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Inc\SP_001\MyPlayerController.gen.cpp"
-/FI"C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Development\SP_001\Definitions.SP_001.h"
-/Fo"C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Development\SP_001\MyPlayerController.gen.cpp.obj"
+/FI"C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\SP_001Editor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\SP_001Editor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\SP_001Editor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Inc\SP_001\MyPlayerController.gen.cpp"
+/FI"C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Development\SP_001\Definitions.SP_001.h"
+/Fo"C:\Users\braedentimlin\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Development\SP_001\MyPlayerController.gen.cpp.obj"
 /TP
 /GR-
 /W4
