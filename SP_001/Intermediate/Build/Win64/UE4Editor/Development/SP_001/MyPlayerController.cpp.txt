@@ -1,0 +1,5 @@
+C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Development\SP_001\Definitions.SP_001.h
+C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Source\SP_001\MyPlayerController.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+C:\Users\jacobtynski\Documents\GitHub\Nitor\SP_001\Intermediate\Build\Win64\UE4Editor\Inc\SP_001\MyPlayerController.generated.h
