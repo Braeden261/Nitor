@@ -11,7 +11,7 @@
  * 
  */
 UCLASS()
-class SP_001_API AMyPlayerController : public APlayerController
+class SP_001_API AMyPlayerController : public APlayerController, public IGenericTeamAgentInterface
 {
 	GENERATED_BODY()
 public:
