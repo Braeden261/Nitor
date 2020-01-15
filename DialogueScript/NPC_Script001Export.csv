@@ -1,0 +1,50 @@
+﻿,NPC_ID,Conv_ID,Line_ID,Dialogue
+1,1,1,1,"Oh dear, another wounded lamb, come under my wing. Heh Heh Heh…."
+2,1,1,2,"This sanctuary is a home to those who have lost themselves, unable to return to the land above."
+3,1,1,3,"Oh? You want to go back? Are you sure, there is nothing but suffering up there. Down here we can live in relative peace, what do you say?"
+4,1,1,4,No?
+5,1,1,5,"If you insist on going, then there is nothing I can do to stop you, but if it be thy will to help us here, bring me the life essence of those you cut down."
+6,1,1,6,"This essence is useful fuel to our fires, therefore allowing life in these Depths to continue."
+7,1,1,7,"For now I can bestow upon you a gift. One heralding from a God of old, a God of sunlight, from when this land was once a powerful kingdom which harnessed the sun."
+8,1,1,8,Go talk to the Young Doctor. She can give you some supplies for your upcoming journey. And don’t forget to pray at the altars…
+9,1,1,9,"You will find these altars throughout the land, abandoned. Return life to them by praying at them."
+10,1,1,10,Hm...I see something in you…
+11,1,1,11,"…Anyhow, the altars may prove useful to you, so pray at them as you see fit."
+12,1,1,12,I’m sure we will see you again soon.
+13,1,1,13,Heh Heh Heh…
+14,1,2,1,"Speak with the Young Doctor, then be on your way."
+15,1,2,2,…
+16,1,3,1,I see....
+17,1,3,2,"You’ve taken on a guardian of sorts, resurrecting you upon death. This spirit is one of old, one of legend."
+18,1,3,3,"But this is assuredly unnecessary information for you, as you seek only revenge. The means as to how you get there is trivial yes?"
+19,1,3,4,"Heed this warning though. Do not take for granted the gift bestowed upon you, and do not question the one who provides it."
+20,1,3,5,....
+21,1,3,6,Is there something that you wanted to discuss?
+22,1,4,1,"Welcome back, oh motivated one."
+23,1,4,2,Do you have wares of which you would like to trade?
+24,1,5,1,I see you’ve found the Gatekeeper.
+25,1,5,2,"She was once a great Knight of this land, the land of Sun and Prosperity."
+26,1,5,3,"Those damned cultists invaded, destroyed everything, killed everyone... well almost everyone."
+27,1,5,4,"Her and her legion protected the kingdom’s throne room far past when the rest of the kingdom surrendered, but alas they were destroyed."
+28,1,5,5,"Her armor remains, filled with the hatred of her and her legion, bound to protect the throne room for all eternity."
+29,1,5,6,A fine battle…
+30,1,5,7,Heh Heh Heh….
+31,1,6,1,So you laid her to rest….finally.
+32,1,6,2,She deserved an honourable death and you have finally provided her with that.
+33,1,6,3,Thank You.
+34,1,7,1,So you finally made it back up top?
+35,1,7,2,"And your journey, finally coming to a close."
+36,1,7,3,"Understand that by killing that man, you will be creating a state of anarchy and despair. Is this something that you’re prepared to do?"
+37,1,7,4,Will you take his place?
+38,1,7,5,Only time will tell…
+39,1,7,6,Heh Heh Heh…
+40,1,8,1,Back again?
+41,1,8,2,Do you have more life essence that we could partake in?
+42,1,9,1,Leaving so soon?
+43,1,9,2,Heh...I expect we’ll be seeing you again shortly.
+44,2,1,1,Hello There.
+45,2,1,2,You can bring me empty sun vessels to increase your healing potential.
+46,2,1,3,Do You have any sun vessels for me?
+47,2,2,1,Bring me empty Sun Vessels to increase your healing capacity.
+48,2,3,1,"I have prepared you a new sun vessel, you have more healing now."
+49,2,4,1,You don't have any empty sun vessels? Bring some to me when you find them.
