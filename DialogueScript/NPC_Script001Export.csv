@@ -4,76 +4,79 @@
 3,1,1,3,"Your corpse fell down here from above some time ago...yes, you were dead. But Solaris, the deity of this forgotten land, seems to have granted you resurrection."
 4,1,1,4,"I can feel their essence still swirling around, making you stronger."
 5,1,1,5,Where are we?
-6,1,1,6,"This sanctuary is a home to those who have lost themselves, unable to return to the land above."
-7,1,1,7,"Oh? You want to go back? Are you sure, there is nothing but suffering up there. Down here we can live in relative peace, what do you say?"
-8,1,1,8,No?
-9,1,1,9,"If you insist on going, then there is nothing I can do to stop you. But if it be thy will to help us here, bring me the life essence of those you cut down."
-10,1,1,10,"This essence is useful fuel to our fires, therefore allowing life in these Depths to continue."
-11,1,1,11,Go talk to the Young Doctor. She can give you some supplies for your upcoming journey. 
-12,1,2,1,Don’t forget to pray at the altar.
-13,1,2,2,"You will find these altars throughout the land, abandoned. Return life to them by praying at them."
-14,1,3,1,"Once you gather your thoughts, it would be best for you to be on your way. Continue through the Depths and you will come to the ruins of an Ancient Kingdom."
-15,1,3,2,"A restless spirit resides there, and in order to return to your city above you will need to put it to rest."
-16,1,3,3,"That is all the information I can give you, now be on your way."
-17,1,4,1,I see....
-18,1,4,2,Your continued resurrection surely means something. Solaris has taken quite the liking to you.
-19,1,4,3,"But this is assuredly unnecessary information for you, as you seek only revenge. The means as to how you get there are trivial, yes?"
-20,1,4,4,"Heed this warning though. Do not take for granted the gifts bestowed upon you, and respect the deity whom bestowed them upon you."
-21,1,4,5,…
-22,1,4,6,Is there something else that you wanted to discuss?
-23,1,5,1,"Welcome back, Reborn One."
-24,1,5,2,Do you have Essence of which you would like to trade?
-25,1,6,1,I see you’ve found the Gatekeeper.
-26,1,6,2,"She was once a great Knight of this land, the land of Sun and Prosperity."
-27,1,6,3,"Aldenriche and his kin invaded, destroyed everything, killed everyone..."
-28,1,6,4,... well... 
-29,1,6,5,...almost everyone…
-30,1,6,6,"Her and her legion protected the kingdom’s throne room far past when the rest of the kingdom surrendered, but alas they fell to the hands of the false Pontiff."
-31,1,6,7,"Her armor remains, filled with the hatred of her and her legion, bound to protect the throne room for all eternity."
-32,1,6,8,A fine battle you will fight…
-33,1,6,9,Heh Heh Heh….
-34,1,7,1,So you laid her to rest….finally.
-35,1,7,2,She deserved an honourable death and you have finally provided her with that.
-36,1,7,3,Thank You.
-37,1,8,1,So you finally made it back up top?
-38,1,8,2,"And your journey, finally coming to a close."
-39,1,8,3,"Understand that by killing that man, you will be creating a state of anarchy and despair. Is this something that you’re prepared to do?"
-40,1,8,4,Will you take his place?
-41,1,8,5,Only time will tell…
-42,1,8,6,Heh Heh Heh…
-43,1,9,1,Back again?
-44,1,9,2,Do you have more life essence that we could partake in?
-45,1,10,1,Leaving so soon?
-46,1,10,2,Heh...I expect we’ll be seeing you again shortly.
-47,1,11,1,"Go speak to the Young Doctor, she has some supplies for you."
-48,1,12,1,Please collect more essence for our fires. You can upgrade your strength when you trade me the essence.
-49,2,1,1,Hello Reborn One.
-50,2,1,2,It seems as though you've finally awoken from your slumber. It's been quite some time since you fell down here.
-51,2,1,3,"To help you avoid a similar fate, I can grant you some tools."
-52,2,1,4,"They aren't much, but the knives are just a quick way for you to attack fro ma distance, possibly staggering some foes."
-53,2,1,5,Sun Vessels +3
-54,2,1,6,The Sun Vessels should fill you with the healing power of the being hanging about you.
-55,2,1,7,Throwing Knives +15
-56,2,1,8,"If you find more empty Sun Vessels around, you can bring them to me. I will return them with renewed healing potential."
-57,2,1,9,You must be aching to get moving… Apologies for taking so much of your time.
-58,2,2,1,"If you find more empty Sun Vessels around, you can bring them to me."
-59,2,2,2,I can assure you it will be worth your while.
-60,2,3,1,"I have prepared you a new sun vessel, you have more healing now."
-61,2,4,1,You don't have any empty sun vessels? Bring some to me when you find them.
-62,2,5,1,Much has changed above since you came down here Reborn One.
-63,2,5,2,"The city has fallen into a state of chaos, all from your example of rising against the Pontiff."
-64,2,5,3,You have acted as a symbol for those who were forgotten by the Pontiff…
-65,2,5,4,...Many people have risen to fight the corruption in the city…
-66,2,5,5,...But this has led many to throw their lives away.
-67,2,5,6,Innocent people are being caught in the violence as well…
-68,2,5,7,"It is important that you contemplate the results of your actions, and whether the fall of the Pontiff outweighs the lives lost."
-69,2,6,1,There are still some followers of the old ways of Solaris who reside above.
-70,2,6,2,"There may even be a hidden altar to Solaris somewhere in the city, you could use it to rest and replenish your supplies."
-71,2,7,1,I was once a practicing doctor in the city above… I helped anyone who needed it.
-72,2,7,2,"But the Pontiff decreed that I worked to aid his research into immortality, and I was forced to dissect people while they were still living."
-73,2,7,3,"I decided that I could no longer go along with his evil deeds, so I fled down here, and He gave me a place to stay."
-74,2,7,4,"Now I provide aid to those who need it down here, and this is now where I truly belong."
-75,3,1,1,"He's gone mad, I can't do this anymore…."
-76,4,1,1,"I need to leave this place, or I'm next…"
-77,5,1,1,I can't… this has to end…
-78,6,1,1,Please no…. Not me…
+6,1,1,6,"Need not worry, we are still in Lautrec. These are old ruins buried far below the Lautrec you know…"
+7,1,1,7,"Lautrec was once a great land, but the Pontiff has driven it into madness. Those of us he deems unruly reside down here, far from his gaze."
+8,1,1,8,"Long before the Pontiff arrived here, Lautrec was a thriving civilization, born of the sun, but now those of us who remember those times cower in the dark."
+9,1,1,9,"This sanctuary here is a home to those who have been lost or abandoned, unable... nay, unwilling to return to the land above."
+10,1,1,10,"Oh? You want to go back? Are you sure, there is nothing but suffering up there. Down here we can live in relative peace, what do you say?"
+11,1,1,11,No?
+12,1,1,12,"If you insist on going, then there is nothing I can do to stop you. But if it be thy will to help us here, bring me the life essence of those you cut down."
+13,1,1,13,"This essence is useful fuel to our fires, therefore allowing life in these Depths to continue."
+14,1,1,14,Go talk to the Young Doctor. She can give you some supplies for your upcoming journey. 
+15,1,2,1,Don’t forget to pray at the altar.
+16,1,2,2,"You will find these altars throughout the land, abandoned. Return life to them by praying at them."
+17,1,3,1,"Once you gather your thoughts, it would be best for you to be on your way. Continue through the Depths and you will come to the ruins of an Ancient Kingdom."
+18,1,3,2,"A restless spirit resides there, and in order to return to your city above you will need to put it to rest."
+19,1,3,3,"That is all the information I can give you, now be on your way."
+20,1,4,1,I see....
+21,1,4,2,Your continued resurrection surely means something. Solaris has taken quite the liking to you.
+22,1,4,3,"But this is assuredly unnecessary information for you, as you seek only revenge. The means as to how you get there are trivial, yes?"
+23,1,4,4,"Heed this warning though. Do not take for granted the gifts bestowed upon you, and respect the deity whom bestowed them upon you."
+24,1,4,5,…
+25,1,4,6,Is there something else that you wanted to discuss?
+26,1,5,1,"Welcome back, Reborn One."
+27,1,5,2,Do you have Essence of which you would like to trade?
+28,1,6,1,I see you’ve found the Gatekeeper.
+29,1,6,2,"She was once a great Knight of this land, the land of Sun and Prosperity."
+30,1,6,3,"Aldenriche and his kin invaded, destroyed everything, killed everyone..."
+31,1,6,4,... well... 
+32,1,6,5,...almost everyone…
+33,1,6,6,"Her and her legion protected the kingdom’s throne room far past when the rest of the kingdom surrendered, but alas they fell to the hands of the false Pontiff."
+34,1,6,7,"Her armor remains, filled with the hatred of her and her legion, bound to protect the throne room for all eternity."
+35,1,6,8,A fine battle you will fight…
+36,1,6,9,Heh Heh Heh….
+37,1,7,1,So you laid her to rest….finally.
+38,1,7,2,She deserved an honourable death and you have finally provided her with that.
+39,1,7,3,Thank You.
+40,1,8,1,So you finally made it back up top?
+41,1,8,2,"And your journey, finally coming to a close."
+42,1,8,3,"Understand that by killing that man, you will be creating a state of anarchy and despair. Is this something that you’re prepared to do?"
+43,1,8,4,Will you take his place?
+44,1,8,5,Only time will tell…
+45,1,8,6,Heh Heh Heh…
+46,1,9,1,Back again?
+47,1,9,2,Do you have more life essence that we could partake in?
+48,1,10,1,Leaving so soon?
+49,1,10,2,Heh...I expect we’ll be seeing you again shortly.
+50,1,11,1,"Go speak to the Young Doctor, she has some supplies for you."
+51,1,12,1,Please collect more essence for our fires. You can upgrade your strength when you trade me the essence.
+52,2,1,1,Hello Reborn One.
+53,2,1,2,It seems as though you've finally awoken from your slumber. It's been quite some time since you fell down here.
+54,2,1,3,"To help you avoid a similar fate, I can grant you some tools."
+55,2,1,4,"They aren't much, but the knives are just a quick way for you to attack fro ma distance, possibly staggering some foes."
+56,2,1,5,Sun Vessels +3
+57,2,1,6,The Sun Vessels should fill you with the healing power of the being hanging about you.
+58,2,1,7,Throwing Knives +15
+59,2,1,8,"If you find more empty Sun Vessels around, you can bring them to me. I will return them with renewed healing potential."
+60,2,1,9,You must be aching to get moving… Apologies for taking so much of your time.
+61,2,2,1,"If you find more empty Sun Vessels around, you can bring them to me."
+62,2,2,2,I can assure you it will be worth your while.
+63,2,3,1,"I have prepared you a new sun vessel, you have more healing now."
+64,2,4,1,You don't have any empty sun vessels? Bring some to me when you find them.
+65,2,5,1,Much has changed above since you came down here Reborn One.
+66,2,5,2,"The city has fallen into a state of chaos, all from your example of rising against the Pontiff."
+67,2,5,3,You have acted as a symbol for those who were forgotten by the Pontiff…
+68,2,5,4,...Many people have risen to fight the corruption in the city…
+69,2,5,5,...But this has led many to throw their lives away.
+70,2,5,6,Innocent people are being caught in the violence as well…
+71,2,5,7,"It is important that you contemplate the results of your actions, and whether the fall of the Pontiff outweighs the lives lost."
+72,2,6,1,There are still some followers of the old ways of Solaris who reside above.
+73,2,6,2,"There may even be a hidden altar to Solaris somewhere in the city, you could use it to rest and replenish your supplies."
+74,2,7,1,I was once a practicing doctor in the city above… I helped anyone who needed it.
+75,2,7,2,"But the Pontiff decreed that I worked to aid his research into immortality, and I was forced to dissect people while they were still living."
+76,2,7,3,"I decided that I could no longer go along with his evil deeds, so I fled down here, and He gave me a place to stay."
+77,2,7,4,"Now I provide aid to those who need it down here, and this is now where I truly belong."
+78,3,1,1,"He's gone mad, I can't do this anymore…."
+79,4,1,1,"I need to leave this place, or I'm next…"
+80,5,1,1,I can't… this has to end…
+81,6,1,1,Please no…. Not me…
