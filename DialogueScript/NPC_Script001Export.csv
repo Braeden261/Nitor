@@ -50,33 +50,43 @@
 49,1,10,2,Heh...I expect we’ll be seeing you again shortly.
 50,1,11,1,"Go speak to the Young Doctor, she has some supplies for you."
 51,1,12,1,Please collect more essence for our fires. You can upgrade your strength when you trade me the essence.
-52,2,1,1,Hello Reborn One.
-53,2,1,2,It seems as though you've finally awoken from your slumber. It's been quite some time since you fell down here.
-54,2,1,3,"To help you avoid a similar fate, I can grant you some tools."
-55,2,1,4,"They aren't much, but the knives are just a quick way for you to attack from a distance, possibly staggering some foes."
-56,2,1,5,Throwing Knives + 15
-57,2,1,6,The Sun Vessels should fill you with the healing power of the being hanging about you.
-58,2,1,7,Sun Vessels +3
-59,2,1,8,"If you find more empty Sun Vessels around, you can bring them to me. I will return them with renewed healing potential."
-60,2,1,9,You must be aching to get moving… Apologies for taking so much of your time.
-61,2,2,1,"If you find more empty Sun Vessels around, you can bring them to me."
-62,2,2,2,I can assure you it will be worth your while.
-63,2,3,1,"I have prepared you a new sun vessel, you have more healing now."
-64,2,4,1,You don't have any empty sun vessels? Bring some to me when you find them.
-65,2,5,1,Much has changed above since you came down here Reborn One.
-66,2,5,2,"The city has fallen into a state of chaos, all from your example of rising against the Pontiff."
-67,2,5,3,You have acted as a symbol for those who were forgotten by the Pontiff…
-68,2,5,4,...Many people have risen to fight the corruption in the city…
-69,2,5,5,...But this has led many to throw their lives away.
-70,2,5,6,Innocent people are being caught in the violence as well…
-71,2,5,7,"It is important that you contemplate the results of your actions, and whether the fall of the Pontiff outweighs the lives lost."
-72,2,6,1,There are still some followers of the old ways of Solaris who reside above.
-73,2,6,2,"There may even be a hidden altar to Solaris somewhere in the city, you could use it to rest and replenish your supplies."
-74,2,7,1,I was once a practicing doctor in the city above… I helped anyone who needed it.
-75,2,7,2,"But the Pontiff decreed that I worked to aid his research into immortality, and I was forced to dissect people while they were still living."
-76,2,7,3,"I decided that I could no longer go along with his evil deeds, so I fled down here, and He gave me a place to stay."
-77,2,7,4,"Now I provide aid to those who need it down here, and this is now where I truly belong."
-78,3,1,1,"He's gone mad, I can't do this anymore…."
-79,4,1,1,"I need to leave this place, or I'm next…"
-80,5,1,1,I can't… this has to end…
-81,6,1,1,Please no…. Not me…
+52,1,13,1,What's this?
+53,1,13,2,"You found an Ancient Relic of Solaris, your Guardian Deity… Incredible!"
+54,1,13,3,"Legend has it there are 5 Ancient Relics, each blessed by Solaris long ago, and they all hold mystic properties."
+55,1,13,4,Apparently anyone who finds all 5 of the Relics wil be granted great power by Solaris.
+56,1,13,5,"I wonder… look for more Relics, you may be able to gain immense power if you find more."
+57,1,14,1,You really are something… you found all 5 of the Ancient Relics.
+58,1,14,2,May I take a look?
+59,1,14,3,"According the old legend, if I put them together like so…."
+60,1,14,4,AH! Yes… here it is.
+61,1,14,5,"I will give this back to you, it should grant you greater connection to Solaris, and with any luck she wil bestow a gift upon you."
+62,2,1,1,Hello Reborn One.
+63,2,1,2,It seems as though you've finally awoken from your slumber. It's been quite some time since you fell down here.
+64,2,1,3,"To help you avoid a similar fate, I can grant you some tools."
+65,2,1,4,"They aren't much, but the knives are just a quick way for you to attack from a distance, possibly staggering some foes."
+66,2,1,5,Throwing Knives + 15
+67,2,1,6,The Sun Vessels should fill you with the healing power of the being hanging about you.
+68,2,1,7,Sun Vessels +3
+69,2,1,8,"If you find more empty Sun Vessels around, you can bring them to me. I will return them with renewed healing potential."
+70,2,1,9,You must be aching to get moving… Apologies for taking so much of your time.
+71,2,2,1,"If you find more empty Sun Vessels around, you can bring them to me."
+72,2,2,2,I can assure you it will be worth your while.
+73,2,3,1,"I have prepared you a new sun vessel, you have more healing now."
+74,2,4,1,You don't have any empty sun vessels? Bring some to me when you find them.
+75,2,5,1,Much has changed above since you came down here Reborn One.
+76,2,5,2,"The city has fallen into a state of chaos, all from your example of rising against the Pontiff."
+77,2,5,3,You have acted as a symbol for those who were forgotten by the Pontiff…
+78,2,5,4,...Many people have risen to fight the corruption in the city…
+79,2,5,5,...But this has led many to throw their lives away.
+80,2,5,6,Innocent people are being caught in the violence as well…
+81,2,5,7,"It is important that you contemplate the results of your actions, and whether the fall of the Pontiff outweighs the lives lost."
+82,2,6,1,There are still some followers of the old ways of Solaris who reside above.
+83,2,6,2,"There may even be a hidden altar to Solaris somewhere in the city, you could use it to rest and replenish your supplies."
+84,2,7,1,I was once a practicing doctor in the city above… I helped anyone who needed it.
+85,2,7,2,"But the Pontiff decreed that I worked to aid his research into immortality, and I was forced to dissect people while they were still living."
+86,2,7,3,"I decided that I could no longer go along with his evil deeds, so I fled down here, and He gave me a place to stay."
+87,2,7,4,"Now I provide aid to those who need it down here, and this is now where I truly belong."
+88,3,1,1,"He's gone mad, I can't do this anymore…."
+89,4,1,1,"I need to leave this place, or I'm next…"
+90,5,1,1,I can't… this has to end…
+91,6,1,1,Please no…. Not me…
